@@ -4,7 +4,7 @@
 
 А это, собственно, я:
 
-![фото](https://bal-sch30.edumsko.ru/uploads/1700/1662/section/112549/Foto/Administr/.thumbs/0x93_749x749__size__Krasnovid.jpeg?1640167355456)
+![фото](Krasnovid.jpeg)
 
 ## Мои дети
 
